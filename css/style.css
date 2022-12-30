@@ -11,6 +11,13 @@ html, body {
     padding: 0;
     
 }
+
+.center {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .message
 {
     font-family: 'Great Vibes', cursive;
